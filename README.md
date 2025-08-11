@@ -55,7 +55,7 @@ cd YOLO-Distance-Detector
 3️⃣ **Run the app:**
 
 ```bash
-python StreetVision.py
+python detector_gui.py
 ```
 
 ---
