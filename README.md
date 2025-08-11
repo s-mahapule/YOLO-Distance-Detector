@@ -17,6 +17,21 @@ It features a simple **Tkinter GUI** to switch between detection modes, adjust c
   - Adjust detection confidence
   - Change resolution
   - Enable/disable voice output
+    
+## 📥 Setup
+
+Download YOLOv4-Tiny weights
+The YOLOv4-Tiny config file (yolov4-tiny.cfg) is already included in this repository.
+However, the weights file is not included because it is large.
+
+Official download link:
+📥 [Download yolov4-tiny.weights (from AlexeyAB/darknet)](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v4_pre/yolov4-tiny.weights)
+
+After downloading:
+Place the file yolov4-tiny.weights in the same folder as StreetVision.py.
+
+Run the application:
+python detector_gui.py
 
 ---
 
