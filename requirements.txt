@@ -1,0 +1,5 @@
+opencv-contrib-python
+numpy
+pyttsx3
+pillow
+python-engineio
