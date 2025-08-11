@@ -26,12 +26,6 @@ It features a **smooth Tkinter GUI** to switch between detection modes, adjust c
 
 ---
 
-## 📸 Example Output
-*(Replace this screenshot with your actual app image)*  
-![StreetVision Screenshot](screenshot.png)
-
----
-
 ## 📦 Requirements
 - Python **3.8+**
 - Webcam or USB camera
@@ -110,11 +104,3 @@ This project is licensed under the **MIT License** — you’re free to use, mod
 Developed by **[Shafia Mahapule](https://github.com/s-mahapule)**
 Inspired by YOLOv4-Tiny and OpenCV distance estimation techniques.
 
-```
-
----
-
-💡 If you want, I can also design you a **GitHub project banner image** (something like “StreetVision – Detect · Measure · Announce”) so it appears at the top of your README for a really polished look.  
-
-Do you want me to make that banner?
-```
