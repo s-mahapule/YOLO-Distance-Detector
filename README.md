@@ -4,7 +4,7 @@ Just replace your current `README.md` content with this:
 
 ---
 
-````markdown
+
 # 🚦 StreetVision – Real-Time Object Detection with Distance & Voice Alerts  
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
