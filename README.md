@@ -34,16 +34,6 @@ It features a **smooth Tkinter GUI** to switch between detection modes, adjust c
 ```bash
 pip install -r requirements.txt
 ````
-
-`requirements.txt`:
-
-```
-opencv-contrib-python
-numpy
-pyttsx3
-pillow
-```
-
 ---
 
 ## 📥 Setup
