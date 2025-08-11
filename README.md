@@ -1,10 +1,3 @@
-Alright 🚀
-Here’s your **fully upgraded GitHub-ready README** — with badges, emojis, screenshot section, and a clean, modern structure.
-Just replace your current `README.md` content with this:
-
----
-
-
 # 🚦 StreetVision – Real-Time Object Detection with Distance & Voice Alerts  
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
