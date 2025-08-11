@@ -1,6 +1,11 @@
 
 # StreetVision – Real-Time Object Detection with Distance & Voice Alerts
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green)
+![YOLOv4-Tiny](https://img.shields.io/badge/YOLOv4--Tiny-Enabled-orange)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
+
 Real-time YOLOv4-Tiny object detection with distance estimation, voice alerts, and a Tkinter control panel.
 
 **StreetVision** is a Python-based computer vision tool that uses **YOLOv4-Tiny** to detect objects in real-time from your camera, estimate their distance, and announce them with voice alerts.  
